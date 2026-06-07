@@ -69,7 +69,7 @@ Sign AI is a real-time sign language translation tool designed to bridge the com
 
 ##  License
 
-This project is licensed under the [GNU General Public License v3.0](LICENSE).
+Copyright © 2026 **Amr Ahmed**. All Rights Reserved.
 
 ##  Developer
 
