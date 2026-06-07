@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="https://github.com/user-attachments/assets/4a82379f-4279-440f-b832-664ca25bd533" width="160" height="160" align="center" style="border-radius:20px;">
 
 # Sign AI
 
@@ -14,41 +15,41 @@
 
 </div>
 
-##  Get the App
+## 📥 Get the App
 
 Sign AI is a real-time sign language translation tool designed to bridge the communication gap for the deaf and hard-of-hearing community. 
 
 > **Note:** The source code for the mobile application is kept private for security reasons. This repository serves as the public hub for downloading the latest APK releases.
 
-###  Download Latest Version
+### 🚀 Download Latest Version
 
- **[Download Sign AI V1.0 (APK)](https://github.com/amr-ahmed-exe/Sign-AI-Releases/releases/latest)**
+👉 **[Download Sign AI v0.9 (APK)](https://github.com/amr-ahmed-exe/Sign-AI-Releases/releases/latest)**
 
-###  Installation Instructions
+### 📱 Installation Instructions
 
 1. Download the `Sign_Translator.apk` file from the [Releases page](https://github.com/amr-ahmed-exe/Sign-AI-Releases/releases).
 2. Locate the downloaded file on your Android device.
 3. Tap the file to install. If prompted, enable **"Install from unknown sources"** in your device settings.
 4. Open **Sign AI** and start translating!
 
-##  Screenshots
+## 📸 Screenshots
 
 | ☀️ Light Mode | 🌙 Dark Mode |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/white%20mode/Picture2.png" width="250"> | <img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/dark%20mode/Picture3.png" width="250"> |
-| <img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/white%20mode/Picture4.png" width="250"> | <img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/dark%20mode/Picture5.png" width="250"> |
-| <img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/white%20mode/Picture6.png" width="250"> | <img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/dark%20mode/Picture7.png" width="250"> |
-| <img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/white%20mode/Picture8.png" width="250"> | <img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/dark%20mode/Picture9.png" width="250"> |
-| <img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/white%20mode/Picture10.png" width="250"> | <img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/dark%20mode/Picture11.png" width="250"> |
-| <img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/white%20mode/Picture12.jpg" width="250"> | <img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/dark%20mode/Picture13.jpg" width="250"> |
-| <img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/white%20mode/Picture14.png" width="250"> | <img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/dark%20mode/Picture15.png" width="250"> |
-| <img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/white%20mode/Picture16.png" width="250"> | <img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/dark%20mode/Picture17.png" width="250"> |
-| <img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/white%20mode/Picture18.png" width="250"> | <img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/dark%20mode/Picture19.png" width="250"> |
-| <img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/white%20mode/Picture20.png" width="250"> | <img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/dark%20mode/Picture21.png" width="250"> |
+| <img src="https://github.com/user-attachments/assets/2fa72417-9ddc-43ef-ba5a-554f65f6b9ca" width="250"> | <img src="https://github.com/user-attachments/assets/3a938bed-b8f1-4f17-be3a-1f5135a7e81f" width="250"> |
+| <img src="https://github.com/user-attachments/assets/14187550-b7f6-4d49-9925-c20b70f35567" width="250"> | <img src="https://github.com/user-attachments/assets/fee983a7-8b06-45db-b658-041f78801673" width="250"> |
+| <img src="https://github.com/user-attachments/assets/95843e86-2b13-419a-88d3-1e377b9dc083" width="250"> | <img src="https://github.com/user-attachments/assets/50cb6ea3-7733-4d8a-bb08-b9a5cbfd7b59" width="250"> |
+| <img src="https://github.com/user-attachments/assets/468614c0-3d61-46e1-a74f-200d4504d3d1" width="250"> | <img src="https://github.com/user-attachments/assets/6a454255-1111-4850-9e6b-60b2911d0326" width="250"> |
+| <img src="https://github.com/user-attachments/assets/0263e99d-66fe-4b1b-b240-0adf14b8ae45" width="250"> | <img src="https://github.com/user-attachments/assets/7c087c4e-3901-438a-a5b5-279b2e8f2504" width="250"> |
+| <img src="https://github.com/user-attachments/assets/9cf07bb3-9528-4ab0-b8ea-658fc76352ff" width="250"> | <img src="https://github.com/user-attachments/assets/a8e29d2d-6c0a-4ad2-9894-ab32584dd266" width="250"> |
+| <img src="https://github.com/user-attachments/assets/cf2849e1-8985-41aa-83d1-5febdf7b5d3e" width="250"> | <img src="https://github.com/user-attachments/assets/e032a4d1-36e3-4b9b-a1e7-22cb6211f474" width="250"> |
+| <img src="https://github.com/user-attachments/assets/371bd48c-3777-406f-9475-f89ddd629a92" width="250"> | <img src="https://github.com/user-attachments/assets/0db5eeee-064b-4a6e-8a62-1394777e6098" width="250"> |
+| <img src="https://github.com/user-attachments/assets/3bba4f4f-2e6e-489b-8d8c-ac536033f211" width="250"> | <img src="https://github.com/user-attachments/assets/a6ba930a-f6d3-4f14-9849-9884de3c4b29" width="250"> |
+| <img src="https://github.com/user-attachments/assets/e1f8a242-79e2-4ee5-ab81-5fdb57a7f87e" width="250"> | <img src="https://github.com/user-attachments/assets/c2232400-f81a-4bd1-bb4b-169e415fff5b" width="250"> |
 
 <br>
 
-##  Features
+## ✨ Features
 
 - **Real-Time Translation:** Point your camera to translate American Sign Language (ASL) to text instantly.
 
@@ -64,11 +65,11 @@ Sign AI is a real-time sign language translation tool designed to bridge the com
 
 ---
 
-##  License
+## 📄 License
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
-##  Developer
+## 👨‍💻 Developer
 
 **Amr A. El-Mokadam**  
 *Graduation Project — Suez Canal University (Class of 2026)*  
