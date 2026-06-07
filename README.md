@@ -21,7 +21,7 @@ Sign AI is a real-time sign language translation tool designed to bridge the com
 
 ###  Download Latest Version
 
- **[Download Sign AI v0.9 (APK)](https://github.com/amr-ahmed-exe/Sign-AI-Releases/releases/latest)**
+ **[Download Sign AI v1.0 (APK)](https://github.com/amr-ahmed-exe/Sign-AI-Releases/releases/latest)**
 
 ###  Installation Instructions
 
