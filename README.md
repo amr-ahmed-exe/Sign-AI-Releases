@@ -32,6 +32,8 @@ Sign AI is a real-time sign language translation tool designed to bridge the com
 
 ##  Screenshots
 
+<div align="center">
+
 | ☀️ Light Mode | 🌙 Dark Mode |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/2fa72417-9ddc-43ef-ba5a-554f65f6b9ca" width="250"> | <img src="https://github.com/user-attachments/assets/3a938bed-b8f1-4f17-be3a-1f5135a7e81f" width="250"> |
@@ -44,6 +46,8 @@ Sign AI is a real-time sign language translation tool designed to bridge the com
 | <img src="https://github.com/user-attachments/assets/371bd48c-3777-406f-9475-f89ddd629a92" width="250"> | <img src="https://github.com/user-attachments/assets/0db5eeee-064b-4a6e-8a62-1394777e6098" width="250"> |
 | <img src="https://github.com/user-attachments/assets/3bba4f4f-2e6e-489b-8d8c-ac536033f211" width="250"> | <img src="https://github.com/user-attachments/assets/a6ba930a-f6d3-4f14-9849-9884de3c4b29" width="250"> |
 | <img src="https://github.com/user-attachments/assets/e1f8a242-79e2-4ee5-ab81-5fdb57a7f87e" width="250"> | <img src="https://github.com/user-attachments/assets/c2232400-f81a-4bd1-bb4b-169e415fff5b" width="250"> |
+
+</div>
 
 <br>
 
