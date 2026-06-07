@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/splash.png" width="160" height="160" align="center" style="border-radius:20px;">
 
 # Sign AI
 
@@ -22,7 +21,7 @@ Sign AI is a real-time sign language translation tool designed to bridge the com
 
 ### 🚀 Download Latest Version
 
-👉 **[Download Sign AI v0.9 (APK)](https://github.com/amr-ahmed-exe/Sign-AI-Releases/releases/latest)**
+👉 **[Download Sign AI V1.0 (APK)](https://github.com/amr-ahmed-exe/Sign-AI-Releases/releases/latest)**
 
 ### 📱 Installation Instructions
 
