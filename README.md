@@ -1,4 +1,5 @@
 <div align="center">
+
 # Sign AI
 
 ### Real-time Sign Language Translator for Android
