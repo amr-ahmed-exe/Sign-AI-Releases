@@ -14,24 +14,24 @@
 
 </div>
 
-## 📥 Get the App
+##  Get the App
 
 Sign AI is a real-time sign language translation tool designed to bridge the communication gap for the deaf and hard-of-hearing community. 
 
 > **Note:** The source code for the mobile application is kept private for security reasons. This repository serves as the public hub for downloading the latest APK releases.
 
-### 🚀 Download Latest Version
+###  Download Latest Version
 
-👉 **[Download Sign AI V1.0 (APK)](https://github.com/amr-ahmed-exe/Sign-AI-Releases/releases/latest)**
+ **[Download Sign AI V1.0 (APK)](https://github.com/amr-ahmed-exe/Sign-AI-Releases/releases/latest)**
 
-### 📱 Installation Instructions
+###  Installation Instructions
 
 1. Download the `Sign_Translator.apk` file from the [Releases page](https://github.com/amr-ahmed-exe/Sign-AI-Releases/releases).
 2. Locate the downloaded file on your Android device.
 3. Tap the file to install. If prompted, enable **"Install from unknown sources"** in your device settings.
 4. Open **Sign AI** and start translating!
 
-## 📸 Screenshots
+##  Screenshots
 
 | ☀️ Light Mode | 🌙 Dark Mode |
 | :---: | :---: |
@@ -48,7 +48,7 @@ Sign AI is a real-time sign language translation tool designed to bridge the com
 
 <br>
 
-## ✨ Features
+##  Features
 
 - **Real-Time Translation:** Point your camera to translate American Sign Language (ASL) to text instantly.
 
@@ -64,11 +64,11 @@ Sign AI is a real-time sign language translation tool designed to bridge the com
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
-## 👨‍💻 Developer
+##  Developer
 
 **Amr A. El-Mokadam**  
 *Graduation Project — Suez Canal University (Class of 2026)*  
