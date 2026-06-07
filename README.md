@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.icons8.com/?size=256&id=tN-1UfX-eZJz&format=png" width="160" height="160" align="center">
+<img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/splash.png" width="160" height="160" align="center" style="border-radius:20px;">
 
 # Sign AI
 
@@ -35,12 +35,26 @@ Sign AI is a real-time sign language translation tool designed to bridge the com
 
 <div align="center">
 <div>
-<img src="https://github.com/user-attachments/assets/010c7788-23b9-4b47-a914-4ee116801bce" width="30%" />
-<img src="https://github.com/user-attachments/assets/18c66b19-0b3b-4726-968a-0684718ff912" width="30%" />
-<img src="https://github.com/user-attachments/assets/94121c52-604e-4048-a4e7-89814b0c371c" width="30%" />
-<img src="https://github.com/user-attachments/assets/e87ca191-aac6-49f1-9e44-e59df71a7310" width="30%" />
-<img src="https://github.com/user-attachments/assets/19231cb2-3232-45bf-959d-46c88285757f" width="30%" />
-<img src="https://github.com/user-attachments/assets/d328a6c7-e8f7-47ff-9d3c-d2e28a832e87" width="30%" />
+<img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/white%20mode/Picture2.png" width="30%" />
+<img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/dark%20mode/Picture3.png" width="30%" />
+<img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/white%20mode/Picture4.png" width="30%" />
+<img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/dark%20mode/Picture5.png" width="30%" />
+<img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/white%20mode/Picture6.png" width="30%" />
+<img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/dark%20mode/Picture7.png" width="30%" />
+<img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/white%20mode/Picture8.png" width="30%" />
+<img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/dark%20mode/Picture9.png" width="30%" />
+<img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/white%20mode/Picture10.png" width="30%" />
+<img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/dark%20mode/Picture11.png" width="30%" />
+<img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/white%20mode/Picture12.jpg" width="30%" />
+<img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/dark%20mode/Picture13.jpg" width="30%" />
+<img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/white%20mode/Picture14.png" width="30%" />
+<img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/dark%20mode/Picture15.png" width="30%" />
+<img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/white%20mode/Picture16.png" width="30%" />
+<img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/dark%20mode/Picture17.png" width="30%" />
+<img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/white%20mode/Picture18.png" width="30%" />
+<img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/dark%20mode/Picture19.png" width="30%" />
+<img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/white%20mode/Picture20.png" width="30%" />
+<img src="https://raw.githubusercontent.com/amr-ahmed-exe/Sign-AI-Releases/assets/screenshots/dark%20mode/Picture21.png" width="30%" />
 </div>
 </div>
 
